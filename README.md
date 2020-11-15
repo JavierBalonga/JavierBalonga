@@ -1,6 +1,8 @@
 ## Hola 👋, Soy Javier Balonga  
 #### Soy Full Stack Web Developer  
 
+<img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/portada.png"/>
+
 ---
 
 Me apasiona la programación y tengo hambre de más conocimiento en este rubro. Soy profesional a la hora de trabajar y también considero fundamentales las relaciones humanas y el trabajo en equipo.  
