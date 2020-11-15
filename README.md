@@ -1,7 +1,7 @@
+<img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/portada.png"/>
+
 ## Hola 👋, Soy Javier Balonga  
 #### Soy Full Stack Web Developer  
-
-<img src="https://github.com/JavierBalonga/JavierBalonga/blob/master/img/portada.png"/>
 
 ---
 
