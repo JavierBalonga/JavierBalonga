@@ -26,10 +26,6 @@
 
 ---  
 
-Actualmente estoy trabajando en un proyecto de e-commerce con metodologías Ágiles(SCRUM) y PERN Stack (postgreSQL, ExpressJS, ReactJS y NodeJS), además de incluir Redux y Sequelize.  
-https://ecommerce-ft06-g08.herokuapp.com/  
-
-
 
 <p align="center">
     <a href="https://github.com/JavierBalonga">
@@ -50,6 +46,18 @@ https://ecommerce-ft06-g08.herokuapp.com/
 
 ## Algunos Proyectos:
 
+---  
+
+### Food-App 
+Una Landing page de Comida
+
+---
+[<img alt="" src="https://github.com/JavierBalonga/Food-App/blob/master/preview.png" />](https://javierbalonga.github.io/Food-App/)
+---
+#### Puedes verlo haciendo Click [Aqui](https://javierbalonga.github.io/Food-App/)
+#### based on the following [artistic concept](https://ar.pinterest.com/pin/744079169681034966/)  
+
+---  
 ---  
 
 ### jikan-api-front
