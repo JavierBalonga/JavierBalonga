@@ -20,7 +20,7 @@
 | ![react](./img/technologies/react.png)                         | React             | ![80%](https://progress-bar.dev/80/) | ![next](./img/technologies/next.png)                       | Next            | ![40%](https://progress-bar.dev/40/) |
 | ![redux](./img/technologies/redux.png)                         | Redux             | ![80%](https://progress-bar.dev/80/) | ![css-modules](./img/technologies/css-modules.png)         | CSS Modules     | ![80%](https://progress-bar.dev/80/) |
 | ![styled-components](./img/technologies/styled-components.png) | Styled Components | ![80%](https://progress-bar.dev/80/) | ![material-ui](./img/technologies/material-ui.png)         | Material UI     | ![80%](https://progress-bar.dev/80/) |
-| ![aws](./img/technologies/aws.png)                             | AWS               | ![50%](https://progress-bar.dev/60/) | ![git](./img/technologies/git.png)                         | Git             | ![80%](https://progress-bar.dev/80/) |
+| ![aws](./img/technologies/aws.png)                             | AWS               | ![20%](https://progress-bar.dev/20/) | ![git](./img/technologies/git.png)                         | Git             | ![80%](https://progress-bar.dev/80/) |
 | ![github](./img/technologies/github.png)                       | GitHub            | ![80%](https://progress-bar.dev/80/) |
 
 
