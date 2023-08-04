@@ -8,41 +8,36 @@
 
 ### Tecnologias:
 
-|                                                          |                   |                                      |                                                      |                 |                                      |
-| -------------------------------------------------------- | ----------------- | ------------------------------------ | ---------------------------------------------------- | --------------- | ------------------------------------ |
-| ![typescript](./img/technologies/typescript.png)               | TypeScript        | ![80%](https://progress-bar.dev/80/) | ![node](./img/technologies/node.png)                       | Node            | ![80%](https://progress-bar.dev/80/) |
-| ![express](./img/technologies/express.png)                     | Express           | ![80%](https://progress-bar.dev/80/) | ![nest](./img/technologies/nest.png)                       | Nest            | ![80%](https://progress-bar.dev/80/) |
-| ![graphql](./img/technologies/graphql.png)                     | GraphQL           | ![80%](https://progress-bar.dev/80/) | ![typeorm](./img/technologies/typeorm.png)                 | TypeORM         | ![80%](https://progress-bar.dev/80/) |
-| ![prisma](./img/technologies/prisma.png)                       | Prisma            | ![80%](https://progress-bar.dev/80/) | ![sequelize](./img/technologies/sequelize.png)             | Sequelize       | ![80%](https://progress-bar.dev/80/) |
-| ![mongoose](./img/technologies/mongoose.png)                   | Mongoose          | ![40%](https://progress-bar.dev/40/) | ![postgresql](./img/technologies/postgresql.png)           | PostgreSQL      | ![80%](https://progress-bar.dev/80/) |
-| ![mongodb](./img/technologies/mongodb.png)                     | MongoDB           | ![40%](https://progress-bar.dev/40/) | ![jest](./img/technologies/jest.png)                       | Jest            | ![80%](https://progress-bar.dev/80/) |
-| ![mocha](./img/technologies/mocha.png)                         | Mocha             | ![80%](https://progress-bar.dev/80/) | ![docker](./img/technologies/docker.png)                   | Docker          | ![60%](https://progress-bar.dev/60/) |
-| ![react](./img/technologies/react.png)                         | React             | ![80%](https://progress-bar.dev/80/) | ![next](./img/technologies/next.png)                       | Next            | ![40%](https://progress-bar.dev/40/) |
-| ![redux](./img/technologies/redux.png)                         | Redux             | ![80%](https://progress-bar.dev/80/) | ![css-modules](./img/technologies/css-modules.png)         | CSS Modules     | ![80%](https://progress-bar.dev/80/) |
-| ![styled-components](./img/technologies/styled-components.png) | Styled Components | ![80%](https://progress-bar.dev/80/) | ![material-ui](./img/technologies/material-ui.png)         | Material UI     | ![80%](https://progress-bar.dev/80/) |
-| ![aws](./img/technologies/aws.png)                             | AWS               | ![20%](https://progress-bar.dev/20/) | ![git](./img/technologies/git.png)                         | Git             | ![80%](https://progress-bar.dev/80/) |
-| ![github](./img/technologies/github.png)                       | GitHub            | ![80%](https://progress-bar.dev/80/) |
-
+<p align="center">
+    <img align="center" alt="typescript" src="./img/technologies/typescript.png" />
+    <img align="center" alt="node" src="./img/technologies/node.png" />
+    <img align="center" alt="express" src="./img/technologies/express.png" />
+    <img align="center" alt="nest" src="./img/technologies/nest.png" />
+    <img align="center" alt="graphql" src="./img/technologies/graphql.png" />
+    <img align="center" alt="typeorm" src="./img/technologies/typeorm.png" />
+    <img align="center" alt="prisma" src="./img/technologies/prisma.png" />
+    <img align="center" alt="sequelize" src="./img/technologies/sequelize.png" />
+    <img align="center" alt="mongoose" src="./img/technologies/mongoose.png" />
+    <img align="center" alt="postgresql" src="./img/technologies/postgresql.png" />
+    <img align="center" alt="mongodb" src="./img/technologies/mongodb.png" />
+    <img align="center" alt="jest" src="./img/technologies/jest.png" />
+    <img align="center" alt="mocha" src="./img/technologies/mocha.png" />
+    <img align="center" alt="docker" src="./img/technologies/docker.png" />
+    <img align="center" alt="react" src="./img/technologies/react.png" />
+    <img align="center" alt="next" src="./img/technologies/next.png" />
+    <img align="center" alt="redux" src="./img/technologies/redux.png" />
+    <img align="center" alt="css-modules" src="./img/technologies/css-modules.png" />
+    <img align="center" alt="styled-components" src="./img/technologies/styled-components.png" />
+    <img align="center" alt="material-ui" src="./img/technologies/material-ui.png" />
+    <img align="center" alt="aws" src="./img/technologies/aws.png" />
+    <img align="center" alt="git" src="./img/technologies/git.png" />
+    <img align="center" alt="github" src="./img/technologies/github.png" />
+</p>
 
 ---
 
 <p align="center">
-    <a href="https://github.com/JavierBalonga">
-      <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-    </a>
-    <a href="https://www.linkedin.com/in/javier-balonga-39518a1b1/">
+    <a href="https://www.linkedin.com/in/javier-balonga/" target="_blank" rel="noopener noreferrer">
       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>
     </a>
-</p>
-
----
-
-<p align="center">
-    <img align="center" alt="Javier Balonga GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierBalonga&layout=compact" />
-</p>
-
----
-
-<p align="center">
-    <img align="center" alt="Javier Balonga GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JavierBalonga&show_icons=true&count_private=true" />
 </p>
