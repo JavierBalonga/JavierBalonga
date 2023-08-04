@@ -2,8 +2,6 @@
  
 ## Full Stack Web Developer
 
----
-
 ### Tecnologias:
 
 <p align="center">
@@ -32,7 +30,7 @@
     <img align="center" alt="github" src="./img/technologies/github.png" />
 </p>
 
----
+### Redes:
 
 <p align="center">
     <a href="https://www.linkedin.com/in/javier-balonga/" target="_blank" rel="noopener noreferrer">
